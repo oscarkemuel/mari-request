@@ -16,8 +16,8 @@ function App() {
       subtitle: 'Posso te perguntar um negócio?'
     },
     {
-      title: 'Quer namorar comigo? 👉🏻👈🏻',
-      subtitle: 'Aceitas?'
+      title: 'Quer namorar comigo?',
+      subtitle: 'Aceitas? 👉🏻👈🏻'
     }
   ]
 
