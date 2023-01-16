@@ -8,12 +8,16 @@ function App() {
 
   const texts = [
     {
-      title: 'Boa noite, Mari 👀',
-      subtitle: 'Está gostando da noite?'
+      title: 'Boa noite, gatinha 👀',
+      subtitle: 'Você se chama Mariana Batista Monteiro?',
+    },
+    {
+      title: 'Gostou do presentinho?',
+      subtitle: 'Saiba que você é muito especial para quem te deu este presente'
     },
     {
       title: 'Que ótimo 😍',
-      subtitle: 'Posso te perguntar um negócio?'
+      subtitle: 'Podemos te fazer uma pergunta?'
     },
     {
       title: 'Quer namorar comigo?',
